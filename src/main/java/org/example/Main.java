@@ -13,6 +13,8 @@ import static org.example.beatlesYellowSubmarinePackage.SongContainsSubstringVer
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.println("Merge conflict test");
         //Task 1 Collections
         //Part 1
         System.out.println("\nTASK 1.1");
